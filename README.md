@@ -18,7 +18,7 @@ A user-friendly interactive app that lets you **draw a digit (0-9)** in a grid a
 ## 🖼️ Preview
 
 \
-*You can add your own screenshot to the **`assets/`** folder and update this line!*
+!(https://raw.githubusercontent.com/ZeinHaffei/Interactive-MNIST/main/assets/1.png)
 
 ---
 
@@ -27,7 +27,7 @@ A user-friendly interactive app that lets you **draw a digit (0-9)** in a grid a
 1. **Clone this repo:**
 
    ```bash
-   git clone https://github.com/your-username/mnist-live-predictor.git
+   git clone https://github.com/your-ZeinHaffei/mnist-live-predictor.git
    cd mnist-live-predictor
    ```
 
@@ -92,7 +92,7 @@ See [`requirements.txt`](requirements.txt) for details.
 
 ## 🧑‍💻 Author
 
-- [Your Name](https://github.com/your-username)
+- [Zein Al Haffei](https://github.com/ZeinHaffei)
 
 ---
 

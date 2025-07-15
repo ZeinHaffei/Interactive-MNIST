@@ -16,8 +16,9 @@ A user-friendly interactive app that lets you **draw a digit (0-9)** in a grid a
 ---
 
 ## 🖼️ Preview
-![Computer Vision](https://raw.githubusercontent.com/ZeinHaffei/ZeinHaffei/main/assets/1.jpg)
-!(https://raw.githubusercontent.com/ZeinHaffei/Interactive-MNIST/main/assets/1.png)
+![1](https://raw.githubusercontent.com/ZeinHaffei/Interactive-MNIST/main/assets/1.png)
+
+![5](https://raw.githubusercontent.com/ZeinHaffei/Interactive-MNIST/main/assets/5.png)
 
 ---
 
